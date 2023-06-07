@@ -1,0 +1,45 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory
+
+        app:title="@string/voice">
+        <ListPreference
+            android:key="Pronunciation"
+            android:title="@string/pronunciation_speed"
+            android:entries="@array/Pronunciation_speed"
+            android:entryValues="@array/Pronunciation_code"
+            android:defaultValue="n"/>
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        app:title="@string/accessibility">
+        <ListPreference
+            android:key="screen_mode"
+            android:title="@string/Screen_mode"
+            android:entries="@array/screen_mode"
+            android:entryValues="@array/screen_code"
+            android:defaultValue="lm" />
+
+    </PreferenceCategory>
+
+
+
+    <PreferenceCategory
+        android:title="@string/language" >
+
+        <ListPreference
+
+            android:key="language_preference"
+            android:title="@string/Select_Language"
+            android:entries="@array/languages"
+            android:entryValues="@array/language_codes"
+            android:defaultValue="ar"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

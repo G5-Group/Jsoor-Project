@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JSOOR</string>
+    <string name="translate">Translate</string>
+    <string name="voice">Voice</string>
+    <string name="pronunciation_speed">Pronunciation_speed</string>
+    <string name="setting">Setting</string>
+    <string name="Screen_mode">screen_mode</string>
+    <string name="about_us">About Us </string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+    <string name="language">language</string>
+    <string name="Select_Language">Select_Language</string>
+    <string name="accessibility">accessibility</string>
+    <string name="text_view">We are a group of students in the University of Jeddah that wanted to make
+        something useful for their community, and there Jsoor was born.</string>
+    <string name="home">Home</string>
+
+    <string name="camera_permission">This app wants to use/access the camera.</string>
+    <string name="translation_result">Translation result</string>
+    <string name="toolbar_title">App Title</string>
+</resources>
