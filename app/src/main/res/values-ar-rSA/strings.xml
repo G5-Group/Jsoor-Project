@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">جسور</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="setting">الاعدادات</string>
+    <string name="translate">الترجمة</string>
+    <string name="about_us">عن جسور</string>
+
+
+    <!-- setting -->
+
+    <string name="voice">الصوت</string>
+    <string name="pronunciation_speed"> سرعة النطق</string>
+
+
+    <string name="accessibility">الامكانيات </string>
+    <string name="Screen_mode">وضع الشاشه</string>
+
+    <string name="language">اللغة</string>
+    <string name="Select_Language">اختار لغة التطبيق</string>
+
+
+    <string name="text_view">نحن مجموعة من الطلاب في جامعة جدة أرادوا أن يصنعوا شيئًا مفيدًا لمجتمعهم ،وهكذاولد جسور
+   </string>
+    <string name="home">الرئيسيه</string>
+
+    <string name="camera_permission">يريد هذا التطبيق استخدام / الوصول إلى الكاميرا.</string>
+    <string name="translation_result"> نتيجة الترجمة </string>
+    <string name="toolbar_title">عنوان التطبيق</string>
+</resources>
